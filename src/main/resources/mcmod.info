@@ -1,0 +1,16 @@
+[
+{
+  "modid": "superic",
+  "name": "SuperItemCreator",
+  "description": "Mod gerador de novos itens",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Impalinha"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
